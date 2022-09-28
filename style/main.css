@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.number {
+    background: linear-gradient(to right,#c3cae0,#32c3d5);
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.number__item {
+    font-size: 15rem;
+}
